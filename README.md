@@ -13,13 +13,12 @@ I'm @KhubaibKhan! I'm a **Android Developer**:iphone:, looking to solve **real-w
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KhubaibKhan_4)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:18.bscs.803@gmail.com)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/psycho_samyt)
+[![Linkedin](https://img.shields.io/badge/-KhubaibKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KhubaibKhan_4)
+[![Gmail](https://img.shields.io/badge/-KhubaibKhan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:18.bscs.803@gmail.com)
+[![Instagram](https://img.shields.io/badge/-psycho_samyt-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/psycho_samyt)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+
 
 <!-- Sample Dev class image -->
 ### 💼  Things that I'm currently working on: 
