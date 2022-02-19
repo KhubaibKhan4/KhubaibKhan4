@@ -15,7 +15,7 @@ I'm @KhubaibKhan! I'm a **Android Developer**:iphone:, looking to solve **real-w
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-KhubaibKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KhubaibKhan_4)
 [![Gmail](https://img.shields.io/badge/-KhubaibKhan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:18.bscs.803@gmail.com)
-[![Instagram](https://img.shields.io/badge/-psycho_samyt-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/psycho_samyt)
+[![Instagram](https://img.shields.io/badge/-KhubaibKhan-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/psycho_samyt)
 
 <!-- Profile View Count and GitStats -->
 
@@ -86,7 +86,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 <!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KhubaibKhan/KhubaibKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
