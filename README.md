@@ -80,8 +80,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 <!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
 
 
 
