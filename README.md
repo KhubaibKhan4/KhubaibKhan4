@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Weather KMP<br>👯 I’m looking to collaborate on Kotlin Multiplatform<br>🤝 I’m looking for help with KMP<br>🌱 I’m currently learning KMP<br>💬 Ask me about Jetpack Compose, Kotlin, KMP<br>⚡ Fun fact Love to Learn
+🔭 I’m currently working on KMP & CMP Projects<br>👯 I’m looking to collaborate on Kotlin Multiplatform<br>🤝 I’m looking for help with KMP<br>🌱 I’m currently learning Ktor for Backend<br>💬 Ask me about Jetpack Compose, Kotlin, KMP, CMP<br>⚡ Fun fact Love to Learn
 
 
 ## 🌐 Socials:
